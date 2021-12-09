@@ -1,0 +1,13 @@
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\bin\Debug\PensionatoEstudantes.exe.config
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\bin\Debug\PensionatoEstudantes.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\bin\Debug\PensionatoEstudantes.pdb
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\obj\Debug\PensionatoEstudantes.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\obj\Debug\PensionatoEstudantes.exe
+C:\Users\danni\Desktop\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\obj\Debug\PensionatoEstudantes.pdb
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\bin\Debug\PensionatoEstudantes.exe.config
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\bin\Debug\PensionatoEstudantes.exe
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\bin\Debug\PensionatoEstudantes.pdb
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\obj\Debug\PensionatoEstudantes.csprojAssemblyReference.cache
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\obj\Debug\PensionatoEstudantes.csproj.CoreCompileInputs.cache
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\obj\Debug\PensionatoEstudantes.exe
+D:\Daniel\Area de trabalho\Cursos\Curso C#\Curso C# - Reboot 2\Capitulo 6 - Comportamento de memoria, arrays, listas\PensionatoEstudantes\PensionatoEstudantes\obj\Debug\PensionatoEstudantes.pdb
